@@ -1,0 +1,14 @@
+{
+  "name": "pdf-merge",
+  "version": "1.0.0",
+  "description": "Merge pdfs from one directory with a given \"merge.pdf\", output to another directory",
+  "main": "merge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Tannenbaum",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-merger-js": "^3.1.0"
+  }
+}
